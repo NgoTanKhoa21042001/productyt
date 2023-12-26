@@ -1,3 +1,7 @@
 export default async function Home() {
-  return <main>s</main>;
+  return (
+    <main>
+      <h1>New ecommerce website</h1>
+    </main>
+  );
 }
